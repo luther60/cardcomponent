@@ -15,7 +15,7 @@ body{
 }
 
 .picture{
-    background-image:url('../cardcomponent/perfumepc.jpg');
+    background-image:url('../cardcomponent/images/perfumepc.jpg');
     
     display:grid;
     height: 100%;   
@@ -87,7 +87,7 @@ img{
         font-weight: bold;       
     } 
     .picture{
-        background-image:url('../cardcomponent/perfumepc.jpg');
+        background-image:url('../cardcomponent/images/perfumepc.jpg');
         display: flex;
         justify-content: center;
         max-height: 295px;

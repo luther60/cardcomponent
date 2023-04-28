@@ -15,10 +15,10 @@ body{
 }
 
 .picture{
-    background-image:url('../https://luther60.github.io/cardcomponent/perfumepc.png');
-    
+    background-image:url('perfumepc.png');
+    height: 100%;
     display:grid;
-    height: 100%;   
+      
 }
 img{
     height: 100%;
@@ -87,7 +87,7 @@ img{
         font-weight: bold;       
     } 
     .picture{
-        background-image:url('../https://luther60.github.io/cardcomponent/perfumepc.png');
+        background-image:url('perfumepc.png');
         display: flex;
         justify-content: center;
         max-height: 295px;
